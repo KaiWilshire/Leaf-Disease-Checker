@@ -1,0 +1,17 @@
+# Datasets
+dataset/
+data/
+train/
+val/
+test/
+
+# Models
+*.h5
+*.keras
+
+# Python junk
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
